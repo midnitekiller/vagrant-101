@@ -1,7 +1,8 @@
 # vagrant-101
-Vagrant 101 for dummies
 
-Tools to use:
+## Vagrant 101 for dummies
+
+### Tools to use:
 
 	* Vagrant version 1.7.4
 	* Vagrant Box Precise64
@@ -10,7 +11,7 @@ Tools to use:
 	* VirtualBox for virtual platform
 	* Install git for repository 
 
-Initial Procedures:
+### Initial Procedures:
 
 	Installing required tools:
 
@@ -50,7 +51,7 @@ Initial Procedures:
 		* box login: 	vagrant ssh (default root user: "vagrant:vagrant")
 
 
-Team Ramboo "must do" first project:
+### Team Ramboo "must do" first project:
 
 	## Create a working vaagrant LAMP server with:
 		
@@ -66,10 +67,9 @@ Team Ramboo "must do" first project:
 	## Commit your work on github branch as "your name"
  
 
-Contributors: 
+### Contributors: 
 
 	Ramboo.TheSecond
 	BrotherOfRamboo
-
 
 (Feel free to fork and contribute)
