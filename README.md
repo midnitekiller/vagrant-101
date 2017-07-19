@@ -63,7 +63,7 @@ Team Ramboo "must do" first project:
 			- chef, puppet, ansible, salt
 		6. git installed
 
-	## Commit your work on github as branch as "your name"
+	## Commit your work on github branch as "your name"
  
 
 Contributors: 
